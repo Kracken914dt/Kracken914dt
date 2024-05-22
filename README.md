@@ -35,4 +35,22 @@ I am a Developer with skills in project development using Java, C#, and Python. 
 😄 Pronouns...
 
 ⚡️ Fun fact...
+<h2 align="center">☄️ Stats ☄️</h2>
+<br>
 
+<div align="center">  
+    <img  width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leowader&show_icons=true&theme=transparent&hide_border=true"/>
+ 
+
+<img width="41%" height="195px" class="bg-black" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leowader&theme=transparent" />
+  
+  </div>
+  <p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=leowader&theme=tokyonight_duo&hide_border=true"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leowader&theme=github_dark&utcOffset=8&hide_border=true" />
+    
+
+</p>
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leowader&theme=github_dark&hide_border=true" />
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</div>
