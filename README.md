@@ -35,12 +35,4 @@ I am a Developer with skills in project development using Java, C#, and Python. 
 😄 Pronouns...
 
 ⚡️ Fun fact...
-<h2 align="center">☄️ Stats ☄️</h2>
-<br>
-  </div>
-  <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Kracken914dt&theme=tokyonight_duo&hide_border=true"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kracken914dt&theme=github_dark&utcOffset=8&hide_border=true" />
-    
-</p>
 
