@@ -52,5 +52,4 @@ I am a Developer with skills in project development using Java, C#, and Python. 
 
 </p>
 <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kracken914dt&theme=github_dark&hide_border=true" />
-    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </div>
