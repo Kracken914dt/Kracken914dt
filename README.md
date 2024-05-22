@@ -44,12 +44,6 @@ I am a Developer with skills in project development using Java, C#, and Python. 
 
 <img width="41%" height="195px" class="bg-black" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kracken914dt&theme=transparent" />
   
-  </div>
-  <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Kracken914dt&theme=tokyonight_duo&hide_border=true"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kracken914dt&theme=github_dark&utcOffset=8&hide_border=true" />
-    
 
-</p>
 <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kracken914dt&theme=github_dark&hide_border=true" />
 </div>
