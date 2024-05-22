@@ -8,7 +8,7 @@ I am a Developer with skills in project development using Java, C#, and Python. 
 
 ## 🛠 Skills
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,git,cs,github,tailwind,next.js,docker,jest,kafka" />
+    <img src="https://skillicons.dev/icons?i=react,mui,html,css,git,cs,github,tailwind,nextjs,docker,jest,kafka" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,postgres,spring,redis" /><br>
 </div>
 
