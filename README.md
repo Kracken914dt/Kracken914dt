@@ -19,20 +19,18 @@ I am a Developer with skills in project development using Java, C#, and Python. 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+<h2 align="center">Stats![image](https://github.com/Kracken914dt/Kracken914dt/assets/101527716/c7c15019-b0c7-4db2-9fb6-dfc60d73d497)
+ </h2>
+<br>
 
-🧠 I'm currently learning...
+<div align="center">  
+    <img  width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kracken914dt&show_icons=true&theme=transparent&hide_border=true"/>
+ 
 
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
-
+<img width="41%" height="195px" class="bg-black" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kracken914dt&theme=transparent" />
+  
+  </div>
+  <p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Kracken914dt&theme=tokyonight_duo&hide_border=true"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kracken914dt&theme=github_dark&utcOffset=8&hide_border=true" />
+</p>
