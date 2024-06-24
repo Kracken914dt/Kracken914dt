@@ -34,7 +34,8 @@ I am a Developer with skills in project development using Java, C#, and Python. 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kracken914dt&theme=github_dark&utcOffset=8&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kracken914dt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kracken914dt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kracken914dt&theme=github_dark&hide_border=true" />
 </div>
 
 
