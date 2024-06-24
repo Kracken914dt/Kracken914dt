@@ -19,8 +19,7 @@ I am a Developer with skills in project development using Java, C#, and Python. 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-<h2 align="center">Stats![image](https://github.com/Kracken914dt/Kracken914dt/assets/101527716/c7c15019-b0c7-4db2-9fb6-dfc60d73d497)
- </h2>
+<h2 align="center">Stats</h2>
 <br>
 
 <div align="center">  
