@@ -27,7 +27,7 @@ I am a Developer with skills in project development using Java, C#, and Python. 
 </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kracken914dt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kracken914dt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="250" alt="languages graph"  />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kracken914dt&theme=github_dark&hide_border=true" />
 </div>
 
